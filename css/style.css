@@ -1,0 +1,25 @@
+body::after{
+    display: block;
+    content: '';
+    height: 60px;
+}
+.bg-primary {
+    background-color: #6244c5 !important;
+}
+
+.about-me {
+    width: 350px;
+    height: 350px;
+}
+
+
+.bg-warning {
+    background-color: #ffc448 !important;
+}
+
+.btn-warning {background-color: #ffc448 !important;}
+
+.btn-primary{
+    background-color: #6244c5 !important;
+    border: #6244c5;
+}
